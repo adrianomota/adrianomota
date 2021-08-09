@@ -1,5 +1,5 @@
 ## Hi! I'm Adriano Mota
-##### :nerd_face: Software Engineer passionate about technology, distributed system, Elixir functional language and all about Erlang VM ecosystem.
+##### Software Engineer passionate about technology, distributed system, Elixir functional language and all about Erlang VM ecosystem.
 
  <div>
   <a href="https://github.com/adrianomota">
