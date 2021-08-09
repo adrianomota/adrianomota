@@ -1,10 +1,10 @@
 ## Hi! I'm Adriano Mota
 ##### Software Engineer passionate about technology, distributed system, Elixir functional language and all about Erlang VM ecosystem.
 
-- 👀 I'm learning and use functional language Elixir to produce Api applications and all ecosystem Erlang VM!
+- 🚀 I'm learning and use functional language Elixir to produce Api applications and all ecosystem Erlang VM!
 - 🎓 graduated in computer science
 - 🙂 I'm currently working fullstack engineer at @ltm
-- 📫 i'm open to opportunities in elixir and phoenix backend engineer
+- 📬 i'm open to opportunities in elixir and phoenix backend engineer
 
  <div>
   <a href="https://github.com/adrianomota">
