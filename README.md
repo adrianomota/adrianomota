@@ -30,6 +30,7 @@
   <img align="center" alt="Adriano-Azure" height="30" width="40" src="https://img.icons8.com/color/452/azure-1.png">
    <img align="center" alt="Adriano-Postgres" height="30" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 </div>
   
