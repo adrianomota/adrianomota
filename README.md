@@ -14,7 +14,6 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Adriano-Elixir" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> 
    <img align="center" alt="Adriano-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg"> 
-  <img align="center" alt="Adriano-Ecto" height="30" width="40" src="https://cdn.dribbble.com/users/599229/screenshots/3456564/attachments/759793/ecto_logo-mark-knockout-final.png?compress=1&resize=800x600">
   <img align="center" alt="Adriano-Absinthe" height="30" width="30" src="https://avatars.githubusercontent.com/u/16964118?s=200&v=4">
   <img align="center" alt="Adriano-GrapQL" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuu_-HM9R0kh_UBNO0eWsJAwdODv5xh9bsdivqW2KilTqowTxKdWrWe4U2UTQNjSeWoU&usqp=CAU">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
