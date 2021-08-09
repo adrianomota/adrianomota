@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomota&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Adriano-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> 
+    <img align="center" alt="Adriano-Elixir" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> 
    <img align="center" alt="Adriano-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg"> 
   <img align="center" alt="Adriano-Ecto" height="30" width="40" src="https://cdn.dribbble.com/users/599229/screenshots/3456564/attachments/759793/ecto_logo-mark-knockout-final.png?compress=1&resize=800x600">
   <img align="center" alt="Adriano-Absinthe" height="30" width="30" src="https://avatars.githubusercontent.com/u/16964118?s=200&v=4">
@@ -35,4 +35,5 @@
  <a href="https://www.linkedin.com/in/adrianomota-8a278531" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://web.telegram.org/#/@adrianowsh" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   
+![Snake animation](https://github.com/adrianomota/adrianomota/blob/output/github-contribution-grid-snake.svg)
 </div>
