@@ -1,11 +1,11 @@
 ## Hi! I'm Adriano Mota
 ##### Software Engineer passionate about technology, distributed system, Elixir functional language and all about Erlang VM ecosystem.
 
-- 🚀 I'm learning and use functional language Elixir to produce Api applications and all ecosystem Erlang VM!
+- 🚀 I'm always learning and use functional language Elixir to produce Liveview app (PETAL Stack ) in order to real-time user experiences, Api applications and all ecosystem Erlang VM!
 - 👀 I'm very interested in Elixir and functional programming λ
 - 🎓 graduated in computer science
 - 🙂 I'm currently working fullstack engineer at @ltm
-- 📬 i'm open to opportunities in elixir and phoenix backend engineer
+- 📬 i'm open to opportunities in elixir and phoenix, liveview and backend engineer
 
  <div>
   <a href="https://github.com/adrianomota">
@@ -14,7 +14,8 @@
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Adriano-Elixir" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> 
-   <img align="center" alt="Adriano-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg"> 
+  <img align="center" alt="Adriano-Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg"> 
+   <img align="center" alt="Adriano-Phoenix-Liveview" height="30" width="40" src="https://miro.medium.com/max/875/1*sG-2Fe0vjyNulQmCPnKQfw.jpeg"> 
   <img align="center" alt="Adriano-Absinthe" height="30" width="30" src="https://avatars.githubusercontent.com/u/16964118?s=200&v=4">
   <img align="center" alt="Adriano-GrapQL" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuu_-HM9R0kh_UBNO0eWsJAwdODv5xh9bsdivqW2KilTqowTxKdWrWe4U2UTQNjSeWoU&usqp=CAU">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +27,7 @@
   <img align="center" alt="Adriano-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adriano-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   <img align="center" alt="Adriano-Kubernetes" height="30" width="40" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">       
   <img align="center" alt="Adriano-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
- <img align="center" alt="Adriano-AWS" height="30" width="40" src="https://pbs.twimg.com/profile_images/1399770499199254532/zn_-38Hw.jpg">
+ <img align="center" alt="Adriano-AWS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png">
   <img align="center" alt="Adriano-Azure" height="30" width="40" src="https://img.icons8.com/color/452/azure-1.png">
    <img align="center" alt="Adriano-Postgres" height="30" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
