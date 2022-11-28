@@ -1,4 +1,5 @@
 ## Hi there!
+
 ##### Software Engineer passionate about technology, distributed system, Elixir, functional language, Blockchain and WEB3.
 
 - 🚀 I'm always learning and use functional language Elixir to produce Liveview apps in order to real-time user experiences and Api applications!
@@ -30,17 +31,18 @@
  <img align="center" alt="Adriano-AWS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png">
   <img align="center" alt="Adriano-Azure" height="30" width="40" src="https://img.icons8.com/color/452/azure-1.png">
    <img align="center" alt="Adriano-Postgres" height="30" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
- <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 </div>
   
   ##
- 
+
+ <img src="https://cdn3.emoji.gg/emojis/1487-bitcoin.png" width="10px" height="10px" alt="Bitcoin"> wallet: 0xa573aFd871B69e18398f573F6c0c95490c909d46
+ <br/>
 <div> 
   <a href = "mailto:adrianowsh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/adrianomota-8a278531" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://web.telegram.org/#/@adrianowsh" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  
+
 ![Snake animation](https://github.com/adrianomota/adrianomota/blob/output/github-contribution-grid-snake.svg)
 </div>
