@@ -1,11 +1,11 @@
 ## Hi there! I'm Adriano Mota!
-##### Software Engineer passionate about technology, distributed system, Elixir, functional language, web3 and all about Erlang VM ecosystem.
+##### Software Engineer passionate about technology, distributed system, Elixir, functional language, Blockchain and WEB3.
 
-- 🚀 I'm always learning and use functional language Elixir to produce Liveview app (PETAL Stack ) in order to real-time user experiences, Api applications and all ecosystem Erlang VM!
+- 🚀 I'm always learning and use functional language Elixir to produce Liveview apps in order to real-time user experiences and Api applications!
 - 👀 I'm very interested in Elixir, Web Full Stack deveopment, Web3 and functional programming λ
 - 🎓 graduated in computer science
 - 🙂 I'm currently working fullstack engineer at @ltm
-- 📬 i'm open to opportunities in elixir and phoenix, liveview and backend engineer
+- 📬 i'm open to opportunities in elixir and phoenix, liveview, backend engineer, Blockchain and WEB.
 
  <div>
   <a href="https://github.com/adrianomota">
