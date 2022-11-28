@@ -1,4 +1,4 @@
-## Hi there! I'm Adriano Mota!
+## Hi there!
 ##### Software Engineer passionate about technology, distributed system, Elixir, functional language, Blockchain and WEB3.
 
 - 🚀 I'm always learning and use functional language Elixir to produce Liveview apps in order to real-time user experiences and Api applications!
