@@ -38,7 +38,7 @@
   
   ##
 
- <img src="https://cdn3.emoji.gg/emojis/1487-bitcoin.png" width="10px" height="10px" alt="Bitcoin"> wallet: 0xa573aFd871B69e18398f573F6c0c95490c909d46
+ <img src="https://cdn3.emoji.gg/emojis/1487-bitcoin.png" width="12px" height="12px" alt="Bitcoin"> wallet: 0xa573aFd871B69e18398f573F6c0c95490c909d46
  <br/>
 <div> 
   <a href = "mailto:adrianowsh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
