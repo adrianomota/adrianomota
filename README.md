@@ -1,6 +1,6 @@
 ## Hi there!
 
-##### Software Engineer passionate about technology, distributed system, Elixir, functional language, Blockchain and WEB3.
+##### Software Engineer passionate about technology, distributed system, .Net Core, Azure, Docker, K8s, Linux and how solving challenge of the world.
 
 - 🚀 I'm always learning and use functional language Elixir to produce Liveview apps in order to real-time user experiences and Api applications!
 - 👀 I'm very interested in Elixir, Web Full Stack deveopment, Web3 and functional programming λ
