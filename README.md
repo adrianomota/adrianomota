@@ -2,11 +2,11 @@
 
 ##### Software Engineer passionate about technology, distributed system, .Net Core, Azure, Docker, K8s, Linux and how solving challenge of the world.
 
-- 🚀 I'm always learning and use functional language Elixir to produce Liveview apps in order to real-time user experiences and Api applications!
-- 👀 I'm very interested in Elixir, Web Full Stack deveopment, Web3 and functional programming λ
+- 🚀 I'm always learning distributed about distributed systems, microservices, cloud native applications adn how this things works!
+- 👀 I'm very interested in other languages like Elixir and Fsharp, Web Full Stack deveopment, Web3 and functional programming λ
 - 🎓 graduated in computer science
 - 🙂 I'm currently working fullstack engineer at @ltm
-- 📬 i'm open to opportunities in elixir and phoenix, liveview, backend engineer, Blockchain and WEB.
+- 📬 i'm open to great opportunities as Software Engineer.
 
  <div>
   <a href="https://github.com/adrianomota">
