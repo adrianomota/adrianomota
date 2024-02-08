@@ -1,6 +1,6 @@
 ## Hi there!
 
-##### Software Engineer passionate about technology, distributed system, .Net Core, Azure, Docker, K8s, Linux and how solving challenge of the world.
+##### Software Engineer passionate about technology, distributed system, .Net Core, Azure, AWS, Elixir, Phoenix, Docker, K8s, Linux and how solving challenge of the world.
 
 - 🚀 I'm always learning distributed about distributed systems, microservices, cloud native applications adn how this things works!
 - 👀 I'm very interested in other languages like Elixir and Fsharp, Web Full Stack deveopment, Web3 and functional programming λ
